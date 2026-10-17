@@ -1,19 +1,42 @@
-WIN PROTEUS – make Windows look the way you want
 
-WIN PROTEUS is a free customization app for Windows 10 and 11. It lets you change how your PC looks – wallpaper, colors, dark or light mode, taskbar, Start menu, desktop icons – and save everything as a theme you can switch with one click.
+# WIN PROTEUS – Make Windows Look the Way You Want
 
-What you can do
+**Your desktop. Your style. Your Windows.**
 
-Pick a theme and see it first. Browse ready-made themes with previews and compare “before” and “after” before anything changes. A few themes are included, more are in the built-in catalog.
-Build your own look. Change the wallpaper, accent color, transparency, taskbar and more. The editor starts from your current Windows settings.
-Undo anything. Before every change the app backs up the settings it touches. You can go back to the previous look at any time.
-Add optional extras. WIN PROTEUS can show popular free customization tools from GitHub (for example TranslucentTB, Lively Wallpaper, Rainmeter) and turn them on or off with a switch. They are never installed without your OK.
-Share and download themes. Use themes made by other people, or share your own, through a community on GitHub.
+WIN PROTEUS is a free customization app for Windows 10 and 11. Personalize your PC with custom wallpapers, colors, dark or light mode, taskbar settings, Start menu styling, and desktop icons. Save your favorite setups as **themes** and switch between them with just one click.
 
-Good to know
+## ✨ What You Can Do
 
-It runs without administrator rights. Installing optional add-ons may show a normal Windows permission prompt, which the app never bypasses.
-It does not collect data. It only connects to the internet when you use GitHub features (add-ons, community, search).
-Themes can change settings and wallpapers only. They cannot run programs or scripts.
-Community themes are made by other people. Look at the preview and license before you apply one.
-Some Windows settings it changes are not officially documented by Microsoft, so a few options may not work on every Windows version. The app tells you when something is not available or did not work, and rolls it back.
+### 🎨 Discover and Preview Themes
+Browse ready-made themes, explore the built-in catalog, and compare before-and-after previews before applying any changes.
+
+### 🛠️ Create Your Own Style
+Customize wallpapers, accent colors, transparency, the taskbar, and more. The editor starts with your current Windows settings.
+
+### ↩️ Undo Changes Anytime
+WIN PROTEUS backs up the settings it modifies before making changes, so you can restore your previous look at any time.
+
+### 🧩 Add Optional Customization Tools
+Discover popular free tools from GitHub, including [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [Lively Wallpaper](https://github.com/rocksdanister/lively), and [Rainmeter](https://github.com/rainmeter/rainmeter).
+
+Enable or disable supported add-ons with a switch. Nothing is installed without your approval.
+
+### 🌐 Share Themes with the Community
+Download themes created by other users or share your own through the GitHub-powered community.
+
+## 🔒 Designed with Your Control in Mind
+
+- **No administrator rights required:** The app runs without administrator privileges. Optional add-ons may trigger a standard Windows permission prompt, which WIN PROTEUS never bypasses.
+- **No data collection:** WIN PROTEUS does not collect data. Internet access is used only when you use GitHub-powered features, such as the community, catalog, or add-ons.
+- **Safe, limited themes:** Themes can change supported Windows settings and wallpapers, but cannot execute programs or scripts.
+- **Transparent and reversible:** Community themes are created by other users. Review their previews and licenses before applying them.
+- **Automatic rollback:** If a setting is unsupported or a change fails, the app informs you and rolls it back.
+
+## 💻 System Requirements
+
+- Windows 10 (version 1809 or newer)
+- Windows 11
+
+---
+
+**WIN PROTEUS — Make Windows yours.**
