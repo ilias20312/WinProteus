@@ -15,7 +15,7 @@ WIN PROTEUS is a free customization app for Windows 10 and 11. It lets you chang
 
 - **🧩 Add optional extras.** WIN PROTEUS can show popular free customization tools from GitHub (for example TranslucentTB, Lively Wallpaper, Rainmeter) and turn them on or off with a switch. They are never installed without your OK.
 
-- **🌐 Share and download themes.** Use themes made by other people, or share your own, through a community on GitHub.
+- **🌐 Share and download themes.** Use themes made by other people, or share your own.
 
 ---
 
@@ -32,3 +32,9 @@ WIN PROTEUS is a free customization app for Windows 10 and 11. It lets you chang
 ## 💻 Requirements
 
 Windows 10 (version 1809 or newer) or Windows 11.
+
+##how to install
+1. download the zip
+2. extract the zip
+3. open \winproteus\winproteus\WinProteus.exe
+4. (optional) rightclick \winproteus\winproteus\WinProteus.exe to add it to the taskbar of desktop
